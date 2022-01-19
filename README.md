@@ -48,20 +48,30 @@ After deciding to manufacture the arm we started working cumulatively on the des
 &emsp;&emsp;&emsp;&emsp;&emsp;1.4.1.1 Index finger&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1.4.1.2 Exploded view
 
 1.4.2 The middle finger
+ 
+![Index_1](Design/Images/Middle_1.jpg)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Index_2](Design/Images/Middle_2.jpg)
                                                                     
-1.4.2.1 Middle finger                                                                    1.4.2.2 Exploded view
+&emsp;&emsp;&emsp;&emsp;&emsp;1.4.2.1 Middle finger&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1.4.2.2 Exploded view
 
 1.4.3 The little finger
-                                                                                               
-1.4.3.1 little finger                                                                    1.4.3.2 Exploded view
+  
+![Index_1](Design/Images/Little_1.jpg)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Index_2](Design/Images/Little_2.jpg)
+                                                                   
+&emsp;&emsp;&emsp;&emsp;&emsp;1.4.3.1 little finger &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1.4.3.2 Exploded view
 
 1.4.4 The ring finger
-                                                               
-1.4.4.1 Ring finger                                                                      1.4.4.2 Exploded view 
+
+![Index_1](Design/Images/Ring_1.jpg)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Index_2](Design/Images/Ring_2.jpg)
+                                                                     
+&emsp;&emsp;&emsp;&emsp;&emsp;1.4.4.1 Ring finger &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1.4.4.2 Exploded view
 
 1.4.5 The Thumb
-                                                      
-1.4.5.1 Thumb                                                                           1.4.5.2 Exploded view
+ 
+![Index_1](Design/Images/Thumb_1.jpg)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Index_2](Design/Images/Thumb_2.jpg) 
+                                                                           
+&emsp;&emsp;&emsp;&emsp;&emsp;1.4.5.1 Thumb &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1.4.5.2 Exploded view
+
+
 Attached above were a set of pictures imported directly from Solidworks which were designed cumulatively. Each of the five fingers consists of a normal view as well as the exploded view. The exploded view gives us an idea of the assembly to be done while assembling all the parts together.
 As seen, there are tiny holes in the parts that are to be drilled through during the manufacturing in-order to allow the string-gear mechanism to play its part in automation. This will be discussed later.
 1.5 The palm
