@@ -43,9 +43,9 @@ After deciding to manufacture the arm we started working cumulatively on the des
 
 1.4.1 The index finger
 
-![Index_1](Design/Images/Index_1.jpg)                 &emsp;&emsp;&emsp;&emsp;                   ![Index_2](Design/Images/Index_2.jpg)
+![Index_1](Design/Images/Index_1.jpg)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Index_2](Design/Images/Index_2.jpg)
 
-1.4.1.1 Index finger                                 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;       1.4.1.2 Exploded view
+1.4.1.1 Index finger&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1.4.1.2 Exploded view
 
 1.4.2 The middle finger
                                                                     
