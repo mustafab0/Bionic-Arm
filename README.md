@@ -4,45 +4,34 @@ For the first design iteration and process of designing the model scroll down.
 
 3-D MODELLING USING SOLIDWORKS
 Design 2.0
-![Full_assemby](Design/Images/Palm_Assembly_2.0.JPG)
-![Palm_Design](Design/Images/Palm2.1_Partial.JPG)
-![Partial_assembly](Design/Images/Palm_Assembly_2.0_Partial.JPG)
 
 With the proof of concept of the design I started working on a more ergonomic design which is showcased below. The idea with the new design was 2 folds.
 1.	Design should be ergonomic and functional when grabbing objects
 a.	The design is inspired and closely simulated to match the dimension of an actual human palm
 2.	The hand should be easy to assemble and disassemble for ease of maintenance
 a.	Design principles for creating lip and hooks from injection molding is incorporated.
-
-
- 
+![Full_assemby](Design/Images/Palm_Assembly_2.0.JPG)
+![Palm_Design](Design/Images/Palm2.1_Partial.JPG)
+![Partial_assembly](Design/Images/Palm_Assembly_2.0_Partial.JPG)
 
  
 1.1 Introduction
 This was the biggest challenge ahead of the team to design a hand with the most feasible design, so that it can be light weight as well have enough room for all the motors, gears, and other components. Here we decided to build the arm in such a way that it can accommodate 4 degrees of freedom (DOF).
  
+![P1](Design/Images/Picture1.png)
+
 Fig 1.1 Basic palm design with thumb (credits – open bionics)
+
 There were a lot of designs currently available in the market from the very basic ones to the extremely complex ones. On research these were the ones we found to refer,
 The above design is eye-catching mainly because of the thumb, as it was the most important and complicated part to design and link it with the rest of the palm.
+
+
+
 1.2 Basic design
+
 Taking reference from the above design, attached below was the first basic design that we were able to come up with.
 
-                       
-
-
-
-
-
-
-
-
-
-
-
-
-   
-
-
+![First_Design](Design/Images/Picture2.png)
 
 Fig 1.2 First draft of the model (Transhumeral)
 As shown the initial design consisted of 3 major parts,
