@@ -67,7 +67,7 @@ After deciding to manufacture the arm we started working cumulatively on the des
 
 1.4.5 The Thumb
  
-![Index_1](Design/Images/Thumb_1.jpg)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Index_2](Design/Images/Thumb_2.jpg) 
+![Index_1](Design/Images/Thumb_1.jpg)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Index_2](Design/Images/Thumb_2.jpg) 
                                                                            
 &emsp;&emsp;&emsp;&emsp;&emsp;1.4.5.1 Thumb &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1.4.5.2 Exploded view
 
