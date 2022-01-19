@@ -83,6 +83,7 @@ Here is the exploded view of the palm. It consists of all the components to be f
 4)	Pulley 
 
 ![Exploded View](Design/Images/Exploded.jpg)
+
 &emsp;&emsp;&emsp;&emsp;&emsp;Fig 1.5.1
 
 
