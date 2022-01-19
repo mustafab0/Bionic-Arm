@@ -4,9 +4,9 @@ For the first design iteration and process of designing the model scroll down.
 
 3-D MODELLING USING SOLIDWORKS
 Design 2.0
-[!Full assemby](Design/Images/Palm_Assembly_2.0.JPG)
-[!Palm Design](Design/Images/Palm2.1_Partial.JPG)
-[!Partial assembly](Design/Images/Palm_Assembly_2.0_Partial.JPG)
+[!Full_assemby](Design/Images/Palm_Assembly_2.0.JPG)
+[!Palm_Design](Design/Images/Palm2.1_Partial.JPG)
+[!Partial_assembly](Design/Images/Palm_Assembly_2.0_Partial.JPG)
 
 With the proof of concept of the design I started working on a more ergonomic design which is showcased below. The idea with the new design was 2 folds.
 1.	Design should be ergonomic and functional when grabbing objects
