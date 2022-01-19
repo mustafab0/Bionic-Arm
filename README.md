@@ -69,7 +69,7 @@ After deciding to manufacture the arm we started working cumulatively on the des
  
 ![Index_1](Design/Images/Thumb_1.jpg)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Index_2](Design/Images/Thumb_2.jpg) 
                                                                            
-&emsp;&emsp;&emsp;&emsp;&emsp;1.4.5.1 Thumb &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1.4.5.2 Exploded view
+&emsp;&emsp;&emsp;&emsp;&emsp;1.4.5.1 Thumb &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1.4.5.2 Exploded view
 
 
 Attached above were a set of pictures imported directly from Solidworks which were designed cumulatively. Each of the five fingers consists of a normal view as well as the exploded view. The exploded view gives us an idea of the assembly to be done while assembling all the parts together.
@@ -82,8 +82,8 @@ Here is the exploded view of the palm. It consists of all the components to be f
 3)	Shafts
 4)	Pulley 
 
- 
-Fig 1.5.1
+![Exploded View](Design/Images/Exploded.jpg)
+&emsp;&emsp;&emsp;&emsp;&emsp;Fig 1.5.1
 
 
 
