@@ -42,17 +42,23 @@ As shown the initial design consisted of 3 major parts,
 After deciding to manufacture the arm we started working cumulatively on the design and attached below are the CAD models we were able to come up with.
 
 1.4.1 The index finger
-                                                                   
-1.4.1.1 Index finger                                                                    1.4.1.2 Exploded view
+
+![Index_1](Design/Images/Index_1.jpg)                                                   ![Index_2](Design/Images/Index_2.jpg)
+
+1.4.1.1 Index finger                                                                     1.4.1.2 Exploded view
+
 1.4.2 The middle finger
                                                                     
 1.4.2.1 Middle finger                                                                    1.4.2.2 Exploded view
+
 1.4.3 The little finger
                                                                                                
-1.4.3.1 little finger                                                                           1.4.3.2 Exploded view
+1.4.3.1 little finger                                                                    1.4.3.2 Exploded view
+
 1.4.4 The ring finger
                                                                
-     1.4.4.1 Ring finger                                                                 1.4.4.2 Exploded view 
+1.4.4.1 Ring finger                                                                      1.4.4.2 Exploded view 
+
 1.4.5 The Thumb
                                                       
 1.4.5.1 Thumb                                                                           1.4.5.2 Exploded view
